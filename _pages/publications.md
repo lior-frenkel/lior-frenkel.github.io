@@ -27,7 +27,7 @@ _Idan Rejwan and <ins>Avi Caciularu</ins>_
 
 **Denoising Word Embeddings by Averaging in a Shared Space**  
 _<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_                        
-_The Joint Conference on Lexical and Computational Semantics (*SEM)_
+_The Joint Conference on Lexical and Computational Semantics (*SEM)_                        
 &nbsp; [Paper]
 
 **Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**  
@@ -48,63 +48,63 @@ _IEEE Transactions on Cognitive Communications and Networking, Special Issue_
 # 2020
 
 **Within-Between Lexical Relation Classification**  
-_Oren Barkan, <ins>Avi Caciularu</ins>* and Ido Dagan_                        
-_The Conference on Empirical Methods in Natural Language Processing (EMNLP)_                  
+_Oren Barkan, <ins>Avi Caciularu</ins>* and Ido Dagan_                                                            
+_The Conference on Empirical Methods in Natural Language Processing (EMNLP)_                                    
 &nbsp; [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) 
 
 **Paraphrasing vs Coreferring: Two Sides of the Same Coin**  
-_Yehudit Meged, <ins>Avi Caciularu</ins>, Vered Shwartz and Ido Dagan_                  
-_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_      
+_Yehudit Meged, <ins>Avi Caciularu</ins>, Vered Shwartz and Ido Dagan_                        
+_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_                  
 &nbsp; [Paper](https://arxiv.org/pdf/2004.14979.pdf) 
 
 **RecoBERT: A Catalog Language Model for Text-Based Recommendations**  
-_Itzik Malkiel, Oren Barkan, <ins>Avi Caciularu</ins>, Noam Razin, Ori Katz and Noam Koenigstein_
-_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_
+_Itzik Malkiel, Oren Barkan, <ins>Avi Caciularu</ins>, Noam Razin, Ori Katz and Noam Koenigstein_            
+_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_            
 &nbsp; [Paper](https://arxiv.org/pdf/2009.13292.pdf) 
 
 **Cold Item Recommendations via Hierarchical Item2vec**  
-_Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Jonathan Weill, Ori Katz, Itzik Malkiel and Noam Koenigstein_
-_ACM Conference on Recommender Systems (RecSys)_
+_Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Jonathan Weill, Ori Katz, Itzik Malkiel and Noam Koenigstein_            
+_ACM Conference on Recommender Systems (RecSys)_                                                
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/9338322) 
 
 **Explainable Recommendations via Attentive Multi-Persona Collaborative Filtering**  
-_Oren Barkan*, Yonatan Fuchs*, <ins>Avi Caciularu</ins> and Noam Koenigstein_
-_ACM Conference on Recommender Systems (RecSys)_
+_Oren Barkan*, Yonatan Fuchs*, <ins>Avi Caciularu</ins> and Noam Koenigstein_                        
+_ACM Conference on Recommender Systems (RecSys)_                                    
 &nbsp; [Paper](https://arxiv.org/pdf/2010.07042.pdf) 
 
 **Attentive Item2vec: Neural Attentive User Representations**  
-_Oren Barkan*, <ins>Avi Caciularu</ins>*, Ori Katz and Noam Koenigstein_
-_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_
+_Oren Barkan*, <ins>Avi Caciularu</ins>*, Ori Katz and Noam Koenigstein_                        
+_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_                  
 &nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/2002/2002.06205.pdf) 
 
 **Bayesian Hierarchical Words Representation Learning**  
-_Oren Barkan*, Idan Rejwan*, <ins>Avi Caciularu</ins>* and Noam Koenigstein_
-_Annual Meeting of the Association for Computational Linguistics (ACL)_
+_Oren Barkan*, Idan Rejwan*, <ins>Avi Caciularu</ins>* and Noam Koenigstein_                  
+_Annual Meeting of the Association for Computational Linguistics (ACL)_                  
 &nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/2004/2004.07126.pdf) 
 
 **Unsupervised Linear and Nonlinear Channel Equalization and Decoding using Variational Autoencoders**  
-_<ins>Avi Caciularu</ins> and David Burshtein_
-_IEEE Transactions on Cognitive Communications and Networking (TCCN)_
+_<ins>Avi Caciularu</ins> and David Burshtein_                                          
+_IEEE Transactions on Cognitive Communications and Networking (TCCN)_                  
 &nbsp; [Paper](https://arxiv.org/pdf/1905.08795.pdf) 
 
 **Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding**  
-_Oren Barkan*, Noam Razin*, Itzik Malkiel, Ori Katz, <ins>Avi Caciularu</ins> and Noam Koenigstein_
-_AAAI Conference on Artificial Intelligence (AAAI)_
+_Oren Barkan*, Noam Razin*, Itzik Malkiel, Ori Katz, <ins>Avi Caciularu</ins> and Noam Koenigstein_            
+_AAAI Conference on Artificial Intelligence (AAAI)_                        
 &nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/1908/1908.05161.pdf) 
 
 # 2018
 
 **ARPM: Additive, Retentive Penalty Method for Multidimensional NILM Algorithms**  
-_Mattan Serry, David Sriker, <ins>Avi Caciularu</ins>, Ram Machlev, Yuval Beck and David Raz_
-_International Conference on Communications (ICC)_
+_Mattan Serry, David Sriker, <ins>Avi Caciularu</ins>, Ram Machlev, Yuval Beck and David Raz_            
+_International Conference on Communications (ICC)_                                                       
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/8646231) 
 
 **Blind Channel Equalization Using Variational Autoencoders**  
-_<ins>Avi Caciularu</ins> and David Burshtein_
-_International Conference on Communications (ICC)_
+_<ins>Avi Caciularu</ins> and David Burshtein_                                                                  
+_International Conference on Communications (ICC)_                                                      
 &nbsp; [Paper](https://arxiv.org/pdf/1803.01526.pdf)
 
 **Inducing Regular Grammars Using Recurrent Neural Networks**  
-_Mor Cohen*, <ins>Avi Caciularu</ins>*, Idan Rejwan* and Jonathan Berant_
-_International Joint Conferences on Artificial Intelligence (IJCAI) Workshop on Learning and Reasoning (L&R)_
+_Mor Cohen*, <ins>Avi Caciularu</ins>*, Idan Rejwan* and Jonathan Berant_                                          
+_International Joint Conferences on Artificial Intelligence (IJCAI) Workshop on Learning and Reasoning (L&R)_      
 &nbsp; [Paper](https://arxiv.org/pdf/1710.10453.pdf)
