@@ -67,7 +67,7 @@ _The Conference on Empirical Methods in Natural Language Processing, Findings (E
 
 **Cold Item Recommendations via Hierarchical Item2vec**  
 _Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Jonathan Weill, Ori Katz, Itzik Malkiel and Noam Koenigstein_            
-_ACM Conference on Recommender Systems (RecSys)_                                                
+_International Conference on Data Mining (ICDM)_                                                
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/9338322) 
 
 **Explainable Recommendations via Attentive Multi-Persona Collaborative Filtering**  
@@ -99,7 +99,7 @@ _AAAI Conference on Artificial Intelligence (AAAI)_
 
 **ARPM: Additive, Retentive Penalty Method for Multidimensional NILM Algorithms**  
 _Mattan Serry, David Sriker, <ins>Avi Caciularu</ins>, Ram Machlev, Yuval Beck and David Raz_            
-_International Conference on Communications (ICC)_                                                       
+_International Conference on the Science of Electrical Engineering (ICSEE)_                                                       
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/8646231) 
 
 **Blind Channel Equalization Using Variational Autoencoders**  
