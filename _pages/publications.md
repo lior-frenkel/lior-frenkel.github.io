@@ -22,13 +22,13 @@ _<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Catt
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **On the Evolution of Word Order**  
-_Idan Rejwan and <ins>Avi Caciularu</ins>_
+_Idan Rejwan and <ins>Avi Caciularu</ins>_                                                            
 &nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
 **Denoising Word Embeddings by Averaging in a Shared Space**  
 _<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_                        
 _The Joint Conference on Lexical and Computational Semantics (*SEM)_                        
-&nbsp; [Paper]
+&nbsp; Paper
 
 **Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**  
 _Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan, <ins>Avi Caciularu</ins> and Noam Koenigstein_       
