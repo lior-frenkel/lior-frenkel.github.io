@@ -43,7 +43,7 @@ _Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Yoni Weill and 
 _International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_            
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/9413384) 
 
-**perm2vec: Attentive Graph Permutation Selection for Decoding of Error Correction Codes**  
+**_perm2vec_: Attentive Graph Permutation Selection for Decoding of Error Correction Codes**  
 _<ins>Avi Caciularu</ins>*, Nir Raviv*, Tomer Raviv, Jacob Goldberger and Yair Be’ery_            
 _IEEE Transactions on Cognitive Communications and Networking, Special Issue_            
 &nbsp; [Paper](https://arxiv.org/pdf/2002.02315.pdf) 
