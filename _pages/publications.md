@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+*,&dagger; denotes equal contribution.
+
+
 # 2021
 
 **Cross-document Language Modeling**  
