@@ -83,12 +83,12 @@ author:
   name             : "Avi Caciularu"
   avatar           : "avatar.jpg"
   bio              : "Machine Learning/Natural Language Processing PhD Student"
-  location         : #"Location"
+  location         : # "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.il/citations?user=fPG_0aQAAAAJ&hl=iw&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Avi-Caciularu"
+  researchgate     : "https://www.researchgate.net/profile/Avi-Caciularu"
   uri              :
   bitbucket        :
   codepen          :
