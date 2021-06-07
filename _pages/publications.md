@@ -19,11 +19,11 @@ author_profile: true
 
 **Cross-document Language Modeling**  
 _<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_   
-[Paper](https://arxiv.org/pdf/2101.00406.pdf) 
+&nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **On the Evolution of Word Order**  
 _Idan Rejwan and <ins>Avi Caciularu</ins>_
-[Paper](https://arxiv.org/pdf/2101.09579.pdf) 
+&nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
 **Denoising Word Embeddings by Averaging in a Shared Space**  
 _<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_
