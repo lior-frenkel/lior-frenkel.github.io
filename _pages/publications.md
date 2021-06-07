@@ -18,7 +18,7 @@ author_profile: true
 # 2021
 
 **Cross-document Language Modeling**  
-_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_
+_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_      
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **On the Evolution of Word Order**  
@@ -26,35 +26,35 @@ _Idan Rejwan and <ins>Avi Caciularu</ins>_
 &nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
 **Denoising Word Embeddings by Averaging in a Shared Space**  
-_<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_
+_<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_                        
 _The Joint Conference on Lexical and Computational Semantics (*SEM)_
 &nbsp; [Paper]
 
 **Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**  
-_Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan, <ins>Avi Caciularu</ins> and Noam Koenigstein_
-_Annual Meeting of the Association for Computational Linguistics, Findings (ACL Findings)_
+_Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan, <ins>Avi Caciularu</ins> and Noam Koenigstein_       
+_Annual Meeting of the Association for Computational Linguistics, Findings (ACL Findings)_            
 &nbsp; [Paper](https://arxiv.org/pdf/2106.01186.pdf) 
 
 **Cold Start Revisited: A Deep Hybrid Recommender with Cold-Warm Item Harmonization**  
-_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Yoni Weill and Noam Koenigstein_
-_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_
+_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Yoni Weill and Noam Koenigstein_            
+_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_            
 &nbsp; [Paper](https://ieeexplore.ieee.org/document/9413384) 
 
 **perm2vec: Attentive Graph Permutation Selection for Decoding of Error Correction Codes**  
-_<ins>Avi Caciularu</ins>*, Nir Raviv*, Tomer Raviv, Jacob Goldberger and Yair Be’ery_
-_IEEE Transactions on Cognitive Communications and Networking, Special Issue_
+_<ins>Avi Caciularu</ins>*, Nir Raviv*, Tomer Raviv, Jacob Goldberger and Yair Be’ery_            
+_IEEE Transactions on Cognitive Communications and Networking, Special Issue_            
 &nbsp; [Paper](https://arxiv.org/pdf/2002.02315.pdf) 
 
 # 2020
 
 **Within-Between Lexical Relation Classification**  
-_Oren Barkan, <ins>Avi Caciularu</ins>* and Ido Dagan_
-_The Conference on Empirical Methods in Natural Language Processing (EMNLP)_
+_Oren Barkan, <ins>Avi Caciularu</ins>* and Ido Dagan_                        
+_The Conference on Empirical Methods in Natural Language Processing (EMNLP)_                  
 &nbsp; [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) 
 
 **Paraphrasing vs Coreferring: Two Sides of the Same Coin**  
-_Yehudit Meged, <ins>Avi Caciularu</ins>, Vered Shwartz and Ido Dagan_
-_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_
+_Yehudit Meged, <ins>Avi Caciularu</ins>, Vered Shwartz and Ido Dagan_                  
+_The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)_      
 &nbsp; [Paper](https://arxiv.org/pdf/2004.14979.pdf) 
 
 **RecoBERT: A Catalog Language Model for Text-Based Recommendations**  
