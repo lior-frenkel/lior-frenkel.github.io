@@ -31,7 +31,7 @@ _The Joint Conference on Lexical and Computational Semantics (*SEM)_
 &nbsp; Paper
 
 **Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**  
-_Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan, <ins>Avi Caciularu</ins> and Noam Koenigstein_       
+_Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan&dagger, <ins>Avi Caciularu</ins>&dagger and Noam Koenigstein_       
 _Annual Meeting of the Association for Computational Linguistics, Findings (ACL Findings)_            
 &nbsp; [Paper](https://arxiv.org/pdf/2106.01186.pdf) 
 
