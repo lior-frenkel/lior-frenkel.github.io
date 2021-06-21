@@ -51,7 +51,7 @@ IEEE Transactions on Cognitive Communications and Networking, Special Issue
 # 2020
 
 **Within-Between Lexical Relation Classification**  
-_Oren Barkan, <ins>Avi Caciularu</ins>* and Ido Dagan_                                                            
+_Oren Barkan*, <ins>Avi Caciularu</ins>* and Ido Dagan_                                                            
 The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                    
 &nbsp; [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) 
 
