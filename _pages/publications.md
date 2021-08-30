@@ -25,9 +25,9 @@ _<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Catt
 The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                            
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
-**iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                
-Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_
-The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)                           
+**iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
+Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
+The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)                                                   
 &nbsp; [Paper]
 
 **On the Evolution of Word Order**  
