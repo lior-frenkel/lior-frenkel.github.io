@@ -21,11 +21,18 @@ author_profile: true
 # 2021
 
 **Cross-document Language Modeling**  
-_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_      
+_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_
+The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)
+&nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
+
+**iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**
+Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_
+The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **On the Evolution of Word Order**  
-_Idan Rejwan and <ins>Avi Caciularu</ins>_                                                            
+_Idan Rejwan and <ins>Avi Caciularu</ins>_
+Recent Advances in Natural Language Processing (RANLP), Student Research Workshop
 &nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
 **Denoising Word Embeddings by Averaging in a Shared Space**  
