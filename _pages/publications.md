@@ -31,7 +31,7 @@ The Conference on Empirical Methods in Natural Language Processing, System demon
 &nbsp; [Paper]
 
 **On the Evolution of Word Order**  
-_Idan Rejwan and <ins>Avi Caciularu</ins>_
+_Idan Rejwan and <ins>Avi Caciularu</ins>_                                                                                         
 Recent Advances in Natural Language Processing (RANLP), Student Research Workshop                                       
 &nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
