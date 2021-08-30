@@ -20,9 +20,9 @@ author_profile: true
 
 # 2021
 
-**Cross-document Language Modeling**  
-_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_
-The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                            
+**Cross-document Language Modeling**                                                                                
+_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_                                                         
+The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                                                                      
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
