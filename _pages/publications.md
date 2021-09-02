@@ -35,6 +35,31 @@ _Idan Rejwan and <ins>Avi Caciularu</ins>_
 Recent Advances in Natural Language Processing (RANLP), Student Research Workshop                                       
 &nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
+**Towards Bridging the Gap between Cold and Warm Items Recommendations**  
+_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Jonathan Weill and Noam Koenigstein_            
+International Conference on Data Mining (ICDM)                                                
+&nbsp; [Paper]
+
+**Representation Learning via Variational Bayesian Networks**  
+_Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Ori Katz, Jonathan Weill, Itzik Malkiel and Noam Koenigstein_                                                         
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper] 
+
+**Grad-SAM: Explaining Transformers via Gradient Self-Attention Maps**  
+_Oren Barkan*, Edan Hauon*, <ins>Avi Caciularu</ins>*, Ori Katz, Itzik Malkiel, Omri Armstrong and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper] 
+
+**Anchor-based Collaborative Filtering**  
+_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins> and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper] 
+
+**GAM: Explainable Visual Similarity and Classification via Gradient Activation Maps**  
+_Oren Barkan*, Omri Armstrong*, Amir Hertz*, <ins>Avi Caciularu</ins>, Ori Katz, Jonathan Weill, Itzik Malkiel and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper] 
+
 **Denoising Word Embeddings by Averaging in a Shared Space**  
 _<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_                        
 The Joint Conference on Lexical and Computational Semantics (*SEM)                        
