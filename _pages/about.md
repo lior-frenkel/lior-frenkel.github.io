@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Computer Science at Bar-Ilan University, advised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and Prof. [Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). Prior to that, I received my M.Sc in Electrical Engineering, under the supervision of Prof. [David Burshtein](https://www.eng.tau.ac.il/~burstyn/), and my B.Sc in Computer Science and Electrical Engineering, both from Tel-Aviv University.
+I am a Ph.D candidate in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](https://www1.biu.ac.il/), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are Multi Document Summarization and semantic relations between texts.
 
-My research interests include topics in deep representation learning and their applications for natural language processing, information and coding theory, and recommender systems.
+Prior to that, I finished my M.Sc. (Magna Cum Lauda) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (Summa Cum Lauda), both in Electrical Engineering.
 
-**Email:** [avi (dot) c33 (at) gmail.com](mailto:avi.c33@gmail.com)
+Until recently, I was an NLP research intern at IBM, and beforehand I worked as a Data Scientist at Intel and as a firmware engineer at Mellanox.
+
+I like good music and I volunteer at ``Paamonim”- an organization promoting financial responsibility.
+
+
+
+**Email:** first-name ern at gmail
