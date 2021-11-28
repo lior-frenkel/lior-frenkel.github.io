@@ -86,9 +86,9 @@ author:
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.il/citations?user=fPG_0aQAAAAJ&hl=iw&oi=ao"
+  googlescholar    : "https://scholar.google.co.il/citations?hl=iw&user=_AZDDnMAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Avi-Caciularu"
+  researchgate     : #"https://www.researchgate.net/profile/Avi-Caciularu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aviclu"
+  github           : "oriern"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "avicaciularu"
+  linkedin         : "ori-ernst-a37461121"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
