@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Avi Caciularu's Homepage"
+title                    : "Ori Ernst's Homepage"
 title_separator          : "-"
-name                     : &name "Avi Caciularu"
-description              : &description "Computer Science PhD Student"
-url                      : https://aviclu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ori Ernst"
+description              : &description "PhD student in NLP and Deep Learning"
+url                      : https://oriern.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aviclu/aviclu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Avi Caciularu"
+  name             : "Ori Ernst"
   avatar           : "avatar.jpg"
-  bio              : "ML/NLP PhD Student"
+  bio              : "PhD student in NLP and Deep Learning"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
