@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-*,&dagger; denotes equal contribution.
+
 
 
 
