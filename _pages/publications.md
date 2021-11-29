@@ -22,7 +22,7 @@ author_profile: true
 **Summary-Source Proposition-level Alignment: Task, Datasets and Supervised Baseline**                                                                                
 _<ins>Ori Ernst</ins>, Ori Shapira, Ramakanth Pasunuru, Michael Lepioshkin, Jacob Goldberger, Mohit Bansal and Ido Dagan_                                                       
 The Conference on Computational Natural Language Learning (CoNLL), 2021 
-<span style="color:blue">Best paper runner-up!</span>
+&nbsp; <span style="color:blue">Best paper runner-up!</span>
 &nbsp; [Paper](https://aclanthology.org/2021.conll-1.25.pdf), [Code](https://github.com/oriern/SuperPAL)
 
 **QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions**                                                                                
