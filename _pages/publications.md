@@ -18,103 +18,31 @@ author_profile: true
 *,&dagger; denotes equal contribution.
 
 
-# 2021
 
-**Cross-document Language Modeling**                                                                                
-_<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_                                                         
-The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                                                                      
-&nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
+**Summary-Source Proposition-level Alignment: Task, Datasets and Supervised Baseline**                                                                                
+_<ins>Ori Ernst</ins>, Ori Shapira, Ramakanth Pasunuru, Michael Lepioshkin, Jacob Goldberger, Mohit Bansal and Ido Dagan_                                                       
+The Conference on Computational Natural Language Learning (CoNLL), 2021 
+<span style="color:blue">Best paper runner-up!</span>
+&nbsp; [Paper](https://aclanthology.org/2021.conll-1.25.pdf), [Code](https://github.com/oriern/SuperPAL)
+
+**QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions**                                                                                
+_Daniela Brook Weiss, Paul Roit, Ayal Klein, <ins>Ori Ernst</ins> and Ido Dagan_                                                         
+The Conference on Empirical Methods in Natural Language Processing, 2021                                                                                    
+&nbsp; [Paper](https://aclanthology.org/2021.emnlp-main.778.pdf), [Code](https://github.com/DanielaBWeiss/QA-ALIGN)
 
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
-Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
-The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)                                                   
-&nbsp; [Paper]
+_Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Arie Cattan, <ins>Ori Ernst</ins>, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
+The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo), 2021                                                  
+&nbsp; [Paper](https://aclanthology.org/2021.emnlp-demo.33.pdf), [Code](https://github.com/BIU-NLP/iFACETSUM), [Demo](https://biu-nlp.github.io/iFACETSUM/WebApp/client/)
 
-**On the Evolution of Word Order**  
-_Idan Rejwan and <ins>Avi Caciularu</ins>_                                                                                         
-Recent Advances in Natural Language Processing (RANLP), Student Research Workshop                                       
-&nbsp; [Paper](https://arxiv.org/pdf/2101.09579.pdf) 
 
-**Denoising Word Embeddings by Averaging in a Shared Space**  
-_<ins>Avi Caciularu</ins>, Ido Dagan and Jacob Goldberger_                        
-The Joint Conference on Lexical and Computational Semantics (*SEM)                        
-&nbsp; [Paper](https://arxiv.org/pdf/2106.02954.pdf)
+**Speech Dereverberation Using Fully Convolutional Networks**  
+_<ins>Ori Ernst</ins>, Shlomo E. Chazan, Sharon Gannot, Jacob Goldberger_                                                                                         
+26th European Signal Processing Conference (EUSIPCO), 2018                                      
+&nbsp; [Paper](https://arxiv.org/pdf/1803.08243.pdf), [Demo](https://www.eng.biu.ac.il/gannot/speech-enhancement/speech-dereverberation-using-fully-convolutional-networks/), [Matlab implementation & tutorial](https://www.mathworks.com/help/audio/ug/dereverberate-speech-using-deep-learning-networks.html)
 
-**Self-Supervised Document Similarity Ranking via Contextualized Language Models and Hierarchical Inference**  
-_Dvir Ginzburg* ,Itzik Malkiel*, Oren Barkan&dagger;, <ins>Avi Caciularu</ins>&dagger; and Noam Koenigstein_       
-Annual Meeting of the Association for Computational Linguistics, Findings (ACL Findings)            
-&nbsp; [Paper](https://arxiv.org/pdf/2106.01186.pdf) 
+**Time series processing for software failure prediction in deep learning training**  
+_Lev Faivishevsky, <ins>Ori Ernst</ins> and Amitai Armon_                                                                                         
+International Conference on Machine Learning (ICML), Time Series Workshop, 2017                                       
+&nbsp; [Paper](https://roseyu.com/time-series-workshop/submissions/TSW2017_paper_6.pdf) 
 
-**Cold Start Revisited: A Deep Hybrid Recommender with Cold-Warm Item Harmonization**  
-_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Yoni Weill and Noam Koenigstein_            
-International Conference on Acoustics, Speech, and Signal Processing (ICASSP)            
-&nbsp; [Paper](https://ieeexplore.ieee.org/document/9413384) 
-
-**_perm2vec_: Attentive Graph Permutation Selection for Decoding of Error Correction Codes**  
-_<ins>Avi Caciularu</ins>*, Nir Raviv*, Tomer Raviv, Jacob Goldberger and Yair Be’ery_            
-IEEE Transactions on Cognitive Communications and Networking, Special Issue            
-&nbsp; [Paper](https://arxiv.org/pdf/2002.02315.pdf) 
-
-# 2020
-
-**Within-Between Lexical Relation Classification**  
-_<ins>Avi Caciularu</ins>*, Oren Barkan* and Ido Dagan_                                                            
-The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                    
-&nbsp; [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) 
-
-**Paraphrasing vs Coreferring: Two Sides of the Same Coin**  
-_Yehudit Meged, <ins>Avi Caciularu</ins>, Vered Shwartz and Ido Dagan_                        
-The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                  
-&nbsp; [Paper](https://arxiv.org/pdf/2004.14979.pdf) 
-
-**RecoBERT: A Catalog Language Model for Text-Based Recommendations**  
-_Itzik Malkiel, Oren Barkan, <ins>Avi Caciularu</ins>, Noam Razin, Ori Katz and Noam Koenigstein_            
-The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)            
-&nbsp; [Paper](https://arxiv.org/pdf/2009.13292.pdf) 
-
-**Cold Item Recommendations via Hierarchical Item2vec**  
-_Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Jonathan Weill, Ori Katz, Itzik Malkiel and Noam Koenigstein_            
-International Conference on Data Mining (ICDM)                                                
-&nbsp; [Paper](https://ieeexplore.ieee.org/document/9338322) 
-
-**Explainable Recommendations via Attentive Multi-Persona Collaborative Filtering**  
-_Oren Barkan*, Yonatan Fuchs*, <ins>Avi Caciularu</ins> and Noam Koenigstein_                        
-ACM Conference on Recommender Systems (RecSys)                                    
-&nbsp; [Paper](https://arxiv.org/pdf/2010.07042.pdf) 
-
-**Attentive Item2vec: Neural Attentive User Representations**  
-_Oren Barkan*, <ins>Avi Caciularu</ins>*, Ori Katz and Noam Koenigstein_                        
-International Conference on Acoustics, Speech, and Signal Processing (ICASSP)                  
-&nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/2002/2002.06205.pdf) 
-
-**Bayesian Hierarchical Words Representation Learning**  
-_Oren Barkan*, Idan Rejwan*, <ins>Avi Caciularu</ins>* and Noam Koenigstein_                  
-Annual Meeting of the Association for Computational Linguistics (ACL)                  
-&nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/2004/2004.07126.pdf) 
-
-**Unsupervised Linear and Nonlinear Channel Equalization and Decoding using Variational Autoencoders**  
-_<ins>Avi Caciularu</ins> and David Burshtein_                                          
-IEEE Transactions on Cognitive Communications and Networking (TCCN)                  
-&nbsp; [Paper](https://arxiv.org/pdf/1905.08795.pdf) 
-
-**Scalable Attentive Sentence-Pair Modeling via Distilled Sentence Embedding**  
-_Oren Barkan*, Noam Razin*, Itzik Malkiel, Ori Katz, <ins>Avi Caciularu</ins> and Noam Koenigstein_            
-AAAI Conference on Artificial Intelligence (AAAI)                        
-&nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/1908/1908.05161.pdf) 
-
-# 2018
-
-**ARPM: Additive, Retentive Penalty Method for Multidimensional NILM Algorithms**  
-_Mattan Serry, David Sriker, <ins>Avi Caciularu</ins>, Ram Machlev, Yuval Beck and David Raz_            
-International Conference on the Science of Electrical Engineering (ICSEE)                                                       
-&nbsp; [Paper](https://ieeexplore.ieee.org/document/8646231) 
-
-**Blind Channel Equalization Using Variational Autoencoders**  
-_<ins>Avi Caciularu</ins> and David Burshtein_                                                                  
-International Conference on Communications (ICC)                                                      
-&nbsp; [Paper](https://arxiv.org/pdf/1803.01526.pdf)
-
-**Inducing Regular Grammars Using Recurrent Neural Networks**  
-_Mor Cohen*, <ins>Avi Caciularu</ins>*, Idan Rejwan* and Jonathan Berant_                                          
-International Joint Conferences on Artificial Intelligence (IJCAI): Workshop on Learning and Reasoning (L&R)      
-&nbsp; [Paper](https://arxiv.org/pdf/1710.10453.pdf)
