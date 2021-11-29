@@ -27,7 +27,7 @@ The Conference on Computational Natural Language Learning (CoNLL), 2021
 
 **QA-Align: Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions**                                                                                
 _Daniela Brook Weiss, Paul Roit, Ayal Klein, <ins>Ori Ernst</ins> and Ido Dagan_                                                         
-The Conference on Empirical Methods in Natural Language Processing, 2021                                                                                    
+The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021                                                                                    
 &nbsp; [Paper](https://aclanthology.org/2021.emnlp-main.778.pdf), [Code](https://github.com/DanielaBWeiss/QA-ALIGN)
 
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
