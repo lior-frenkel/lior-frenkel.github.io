@@ -39,7 +39,7 @@ The Conference on Empirical Methods in Natural Language Processing, System demon
 **Speech Dereverberation Using Fully Convolutional Networks**  
 _<ins>Ori Ernst</ins>, Shlomo E. Chazan, Sharon Gannot, Jacob Goldberger_                                                                                         
 26th European Signal Processing Conference (EUSIPCO), 2018                                      
-&nbsp; [Paper](https://arxiv.org/pdf/1803.08243.pdf), [Demo](https://www.eng.biu.ac.il/gannot/speech-enhancement/speech-dereverberation-using-fully-convolutional-networks/), [Matlab implementation & tutorial](https://www.mathworks.com/help/audio/ug/dereverberate-speech-using-deep-learning-networks.html)
+&nbsp; [Paper](https://arxiv.org/pdf/1803.08243.pdf), [Demo](https://www.eng.biu.ac.il/gannot/speech-enhancement/speech-dereverberation-using-fully-convolutional-networks/), [Matlab tutorial](https://www.mathworks.com/help/audio/ug/dereverberate-speech-using-deep-learning-networks.html)
 
 **Time series processing for software failure prediction in deep learning training**  
 _Lev Faivishevsky, <ins>Ori Ernst</ins> and Amitai Armon_                                                                                         
