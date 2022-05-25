@@ -16,6 +16,17 @@ author_profile: true
 {% endfor %} -->
 
 
+**Proposition-Level Clustering for Multi-Document Summarization**                                                                                
+_<ins>Ori Ernst</ins>, Avi Caciularu*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan_                                                 <br />&nbsp; *equal contribution    
+The Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 
+<br />&nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf), [Code](https://github.com/oriern/ProCluster)
+
+
+**Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations**  
+_Daniela Brook Weiss, Paul Roit, <ins>Ori Ernst</ins> and Ido Dagan_
+
+The Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 
+<br />&nbsp; [Paper](https://arxiv.org/pdf/2110.04517.pdf), [Code](https://github.com/DanielaBWeiss/Extending-Sentence-Fusion-Resources)
 
 
 
