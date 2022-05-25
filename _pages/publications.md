@@ -23,7 +23,7 @@ The Conference of the North American Chapter of the Association for Computationa
 
 
 **Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations**  
-_Daniela Brook Weiss, Paul Roit, <ins>Ori Ernst</ins> and Ido Dagan_
+_Daniela Brook Weiss, Paul Roit, <ins>Ori Ernst</ins> and Ido Dagan_                                                 
 The Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 
 <br />&nbsp; [Paper](https://arxiv.org/pdf/2110.04517.pdf), [Code](https://github.com/DanielaBWeiss/Extending-Sentence-Fusion-Resources)
 
