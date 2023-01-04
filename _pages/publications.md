@@ -15,6 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**How “Multi” is Multi-Document Summarization?**                                                                                
+_Ruben Wolhandler*, Arie Cattan*, <ins>Ori Ernst</ins>, and Ido Dagan_                                                 <br />&nbsp; *equal contribution    
+The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022 
+<br />&nbsp; [Paper](https://arxiv.org/pdf/2210.12688.pdf), [Code](https://github.com/ariecattan/multi_mds)
+
+
+**Controlled Text Reduction**                                                                                
+_Aviv Slobodkin, Paul Roit, Eran Hirsch, <ins>Ori Ernst</ins>, and Ido Dagan_ 
+The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022  
+<br />&nbsp; [Paper](https://arxiv.org/pdf/2210.13449.pdf), [Code](https://github.com/lovodkin93/Controlled_Text_Reduction)
+
 
 **Proposition-Level Clustering for Multi-Document Summarization**                                                                                
 _<ins>Ori Ernst</ins>, Avi Caciularu*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan_                                                 <br />&nbsp; *equal contribution    
