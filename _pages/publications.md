@@ -24,7 +24,7 @@ The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022
 **Controlled Text Reduction**                                                                                
 _Aviv Slobodkin, Paul Roit, Eran Hirsch, <ins>Ori Ernst</ins>, and Ido Dagan_ 
 The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022  
-<br />&nbsp; [Paper](https://arxiv.org/pdf/2210.13449.pdf), [Code](https://github.com/lovodkin93/Controlled_Text_Reduction)
+&nbsp; [Paper](https://arxiv.org/pdf/2210.13449.pdf), [Code](https://github.com/lovodkin93/Controlled_Text_Reduction)
 
 
 **Proposition-Level Clustering for Multi-Document Summarization**                                                                                
