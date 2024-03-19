@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at [Bar-Ilan University](https://www1.biu.ac.il/), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are Multi Document Summarization and semantic relations between texts.
+I am a postdoctoral researcher in the [Natural Language Processing Lab](https://www.cs.mcgill.ca/~jcheung/group.html) at [McGill University](https://mcgill-nlp.github.io/) & [Mila](https://mila.quebec/en/) working with [Prof. Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I have completed my Ph.D. in the [Natural Language Processing Lab](https://biu-nlp.github.io/) at [Bar-Ilan University](https://www1.biu.ac.il/), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are automatic summarization and semantic relations between texts. Prior to that, I finished my M.Sc. (magna cum laude) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (summa cum laude), both in Electrical Engineering.
 
-Prior to that, I finished my M.Sc. (magna cum laude) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (summa cum laude), both in Electrical Engineering.
-
-Until recently, I was an NLP research intern at IBM, and beforehand I worked as a Data Scientist at Intel and as a firmware engineer at Mellanox.
+During my graduate studies, I was fortunate to intern at Amazon Research, IBM Research, and Intel (AI Solutions group).
 
 I like good music and I volunteer at "Paamonim”- an organization promoting financial responsibility.
 
