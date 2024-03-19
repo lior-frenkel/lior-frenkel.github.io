@@ -15,13 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**Re-Examining Summarization Evaluation across Multiple Quality Criteria**
-_<ins>Ori Ernst</ins>, Ori Shapira, Ido Dagan, Ran Levy_
+**Re-Examining Summarization Evaluation across Multiple Quality Criteria**                      
+_<ins>Ori Ernst</ins>, Ori Shapira, Ido Dagan, Ran Levy_                                
 The Conference of Empirical Methods in Natural Language Processing, Findings (EMNLP Findings), 2023
 <br />&nbsp; [Paper](https://aclanthology.org/2023.findings-emnlp.924.pdf)
 
 
-**OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization**
+**OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization**                        
 _Shmuel Amar*, Liat Schiff*, <ins>Ori Ernst</ins>, Asi Shefer, Ori Shapira, Ido Dagan_                                                 <br />&nbsp; *equal contribution    
 The Conference of Empirical Methods in Natural Language Processing (EMNLP), 2023
 <br />&nbsp; [Paper](https://aclanthology.org/2023.emnlp-main.121.pdf), [Data](https://github.com/liatschiff/OpenAsp)
