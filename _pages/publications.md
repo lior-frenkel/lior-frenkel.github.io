@@ -15,22 +15,34 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**Re-Examining Summarization Evaluation across Multiple Quality Criteria**
+_<ins>Ori Ernst</ins>, Ori Shapira, Ido Dagan, Ran Levy_
+The Conference of Empirical Methods in Natural Language Processing, Findings (EMNLP Findings), 2023
+<br />&nbsp; [Paper](https://aclanthology.org/2023.findings-emnlp.924.pdf)
+
+
+**OpenAsp: A Benchmark for Multi-document Open Aspect-based Summarization**
+_Shmuel Amar*, Liat Schiff*, <ins>Ori Ernst</ins>, Asi Shefer, Ori Shapira, Ido Dagan_                                                 <br />&nbsp; *equal contribution    
+The Conference of Empirical Methods in Natural Language Processing (EMNLP), 2023
+<br />&nbsp; [Paper](https://aclanthology.org/2023.emnlp-main.121.pdf), [Data](https://github.com/liatschiff/OpenAsp)
+
+
 **How “Multi” is Multi-Document Summarization?**                                                                                
 _Ruben Wolhandler*, Arie Cattan*, <ins>Ori Ernst</ins>, and Ido Dagan_                                                 <br />&nbsp; *equal contribution    
 The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022 
-<br />&nbsp; [Paper](https://arxiv.org/pdf/2210.12688.pdf), [Code](https://github.com/ariecattan/multi_mds)
+<br />&nbsp; [Paper](https://aclanthology.org/2022.emnlp-main.389.pdf), [Code](https://github.com/ariecattan/multi_mds)
 
 
 **Controlled Text Reduction**                                                                                
 _Aviv Slobodkin, Paul Roit, Eran Hirsch, <ins>Ori Ernst</ins>, and Ido Dagan_ 
 The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022  
-&nbsp; [Paper](https://arxiv.org/pdf/2210.13449.pdf), [Code](https://github.com/lovodkin93/Controlled_Text_Reduction)
+&nbsp; [Paper](https://aclanthology.org/2022.emnlp-main.385.pdf), [Code](https://github.com/lovodkin93/Controlled_Text_Reduction)
 
 
 **Proposition-Level Clustering for Multi-Document Summarization**                                                                                
 _<ins>Ori Ernst</ins>, Avi Caciularu*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan_                                                 <br />&nbsp; *equal contribution    
 The Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 
-<br />&nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf), [Code](https://github.com/oriern/ProCluster)
+<br />&nbsp; [Paper](https://aclanthology.org/2022.naacl-main.128.pdf), [Code](https://github.com/oriern/ProCluster)
 
 
 **Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations**  
