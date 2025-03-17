@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**The Power of Summary-Source Alignments**                      
+_<ins>Ori Ernst</ins>, Ori Shapira, Aviv Slobodkin, Sharon Adar, Mohit Bansal, Jacob Goldberger, Ran Levy, Ido Dagan_                                
+Findings of the Association for Computational Linguistics (ACL Findings), 2024
+<br />&nbsp; [Paper](https://aclanthology.org/2024.findings-acl.389.pdf)
+
+
 **Re-Examining Summarization Evaluation across Multiple Quality Criteria**                      
 _<ins>Ori Ernst</ins>, Ori Shapira, Ido Dagan, Ran Levy_                                
 The Conference of Empirical Methods in Natural Language Processing, Findings (EMNLP Findings), 2023
