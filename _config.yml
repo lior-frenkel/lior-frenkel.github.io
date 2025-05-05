@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Lior Frenkel's Homepage"
 title_separator          : "-"
 name                     : &name "Lior Frenkel"
-description              : &description "Postdoc and NLP Researcher"
-url                      : https://oriern.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student and Speech and Audio Researcher"
+url                      : https://lior-frenkel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aviclu/aviclu.github.io"
+repository               : "lior-frenkel/lior-frenkel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.il/citations?hl=iw&user=_AZDDnMAAAAJ"
+  googlescholar    : "https://scholar.google.co.il/citations?user=fv_1r5cAAAAJ&hl=en"
   email            :
   researchgate     : #"https://www.researchgate.net/profile/Avi-Caciularu"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "oriern"
+  github           : "lior-frenkel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ori-ernst-a37461121"
+  linkedin         : "lior-frenkel-0b248811a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
