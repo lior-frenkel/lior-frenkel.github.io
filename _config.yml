@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ori Ernst's Homepage"
+title                    : "Lior Frenkel's Homepage"
 title_separator          : "-"
-name                     : &name "Ori Ernst"
+name                     : &name "Lior Frenkel"
 description              : &description "Postdoc and NLP Researcher"
 url                      : https://oriern.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ori Ernst"
+  name             : "Lior Frenkel"
   avatar           : "avatar.jpg"
   bio              : "Postdoc and NLP Researcher"
   location         : # "Location"
