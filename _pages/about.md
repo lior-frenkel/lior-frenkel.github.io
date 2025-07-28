@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Faculty of Engineering](https://engineering.biu.ac.
 
 I currently work at [OriginAI](https://il.linkedin.com/company/originai) as a Deep Learning researcher in the Speech and Audio group.
 
-As part of my role, I delivered a professional course on reinforcement learning to researchers from multiple teams within the organization. [Slides](https://www.dropbox.com/scl/fo/vasp7sfxtcbw4yrzqf9a6/AH-2J5zj4V0sc78EzQw_o1g?rlkey=ndoz3a5goybhgz88d6qd2417d&st=h1tyjux4&dl=0).
+As part of my role, I delivered a professional course on reinforcement learning to researchers from multiple teams within the organization. [Slides](https://www.dropbox.com/scl/fo/vasp7sfxtcbw4yrzqf9a6/AH-2J5zj4V0sc78EzQw_o1g?rlkey=ndoz3a5goybhgz88d6qd2417d&st=h1tyjux4&dl=0)
 
 
 **Email:** liorfrenkel1992@gmail.com
