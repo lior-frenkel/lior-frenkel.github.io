@@ -18,7 +18,7 @@ author_profile: true
 **Detection of actionable domain shifts in speech enhancement systems by tracking prediction uncertainty**                      
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
 Journal on Audio, Speech, and Music Processing (EURASIP), 2026
-<br />&nbsp; [Paper](https://link.springer.com/content/pdf/10.1186/s13636-026-00448-3_reference.pdf)
+<br />&nbsp; [Paper](https://link.springer.com/content/pdf/10.1186/s13636-026-00448-3_reference.pdf), [Code](https://github.com/lior-frenkel/UDA_enhancement), [Code](https://github.com/lior-frenkel/shift_detection)
 
 **Automatic Detection of Domain Shifts in Speech Enhancement Systems Using Confidence-Based Metrics**                      
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
@@ -33,7 +33,7 @@ The Conference of Medical Imaging with Deep Learning (MIDL), 2025
 **Domain Adaptation Using Suitable Pseudo Labels for Speech Enhancement and Dereverberation**                        
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                                 
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2024
-<br />&nbsp; [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10413641)
+<br />&nbsp; [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10413641), [Code](https://github.com/lior-frenkel/UDA_enhancement)
 
 **Confidence calibration of a medical imaging classification system that is robust to label noise**                                                                                
 _Coby Penso, <ins>Lior Frenkel</ins>, Jacob Goldberger_                                              
@@ -42,8 +42,8 @@ IEEE Transactions on Medical Imaging (T-MI), 2024
 
 **Domain Adaptation for Speech Enhancement in a Large Domain Gap**                                                                                
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_  
-Interspeech, 2023  
-<br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2023/07/Interspeech_2023_Lior_.pdf)
+Interspeech, 2023
+<br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2023/07/Interspeech_2023_Lior_.pdf), [Code](https://github.com/lior-frenkel/UDA_enhancement)
 
 **Calibration of A Regression Network Based on the Predictive Variance with Applications to Medical Images**                                                                                
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                               
@@ -62,6 +62,6 @@ European Signal Processing Conference (EUSIPCO), 2022
 
 **Network calibration by class-based temperature scaling**                                                                                
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                                          
-European Signal Processing Conference (EUSIPCO), 2021                                                                                   
+European Signal Processing Conference (EUSIPCO), 2021                                                                 
 <br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2022/01/Lior_Frenkel_Eusipco_2021.pdf), [Code](https://github.com/lior-frenkel/class-based-calibration)
 
