@@ -15,23 +15,25 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**Detection of actionable domain shifts in speech enhancement systems by tracking prediction uncertainty**                      
+_<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
+Journal on Audio, Speech, and Music Processing (EURASIP), 2026
+<br />&nbsp; [Paper](https://link.springer.com/content/pdf/10.1186/s13636-026-00448-3_reference.pdf)
+
 **Automatic Detection of Domain Shifts in Speech Enhancement Systems Using Confidence-Based Metrics**                      
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
 The Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025
 <br />&nbsp; [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888825), [Code](https://github.com/lior-frenkel/shift_detection)
-
 
 **Clinical Measurements with Calibrated Instance-Dependent Confidence Interval**                      
 _Rotem Nizhar, <ins>Lior Frenkel</ins>, Jacob Goldberger_                                
 The Conference of Medical Imaging with Deep Learning (MIDL), 2025
 <br />&nbsp; [Paper](https://openreview.net/pdf?id=p6AJA6PjUI)
 
-
 **Domain Adaptation Using Suitable Pseudo Labels for Speech Enhancement and Dereverberation**                        
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                                 
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2024
 <br />&nbsp; [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10413641)
-
 
 **Confidence calibration of a medical imaging classification system that is robust to label noise**                                                                                
 _Coby Penso, <ins>Lior Frenkel</ins>, Jacob Goldberger_                                              
@@ -43,18 +45,15 @@ _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_
 Interspeech, 2023  
 <br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2023/07/Interspeech_2023_Lior_.pdf)
 
-
 **Calibration of A Regression Network Based on the Predictive Variance with Applications to Medical Images**                                                                                
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                               
 International Symposium on Biomedical Imaging (ISBI), 2023
 <br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2023/04/LIor_ISBI_2023.pdf), [Code](https://github.com/lior-frenkel/regression_calibration)
 
-
 **Calibration of medical imaging classification systems with weight scaling**  
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                               
 The Conference of Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022 
 <br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2022/09/Lior_MICCAI_2022.pdf)
-
 
 **Network calibration by temperature scaling based on the predicted confidence**                                                                                
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                                       
