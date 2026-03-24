@@ -18,7 +18,7 @@ author_profile: true
 **Detection of actionable domain shifts in speech enhancement systems by tracking prediction uncertainty**                      
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
 Journal on Audio, Speech, and Music Processing (EURASIP), 2026
-<br />&nbsp; [Paper](https://link.springer.com/content/pdf/10.1186/s13636-026-00448-3_reference.pdf), [Code](https://github.com/lior-frenkel/UDA_enhancement), [Code](https://github.com/lior-frenkel/shift_detection)
+<br />&nbsp; [Paper](https://link.springer.com/content/pdf/10.1186/s13636-026-00448-3_reference.pdf), [Code](https://github.com/lior-frenkel/UDA_enhancement)
 
 **Automatic Detection of Domain Shifts in Speech Enhancement Systems Using Confidence-Based Metrics**                      
 _<ins>Lior Frenkel</ins>, Shlomo E. Chazan, Jacob Goldberger_                                
@@ -62,6 +62,6 @@ European Signal Processing Conference (EUSIPCO), 2022
 
 **Network calibration by class-based temperature scaling**                                                                                
 _<ins>Lior Frenkel</ins>, Jacob Goldberger_                                                          
-European Signal Processing Conference (EUSIPCO), 2021                                                                 
+European Signal Processing Conference (EUSIPCO), 2021
 <br />&nbsp; [Paper](https://www.eng.biu.ac.il/goldbej/files/2022/01/Lior_Frenkel_Eusipco_2021.pdf), [Code](https://github.com/lior-frenkel/class-based-calibration)
 
